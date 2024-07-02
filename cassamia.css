@@ -322,11 +322,7 @@ body {
   color: white;
   border-style: none;
 }
-@media only screen and (max-width: 47.4375em) {
-  .btn-us {
-    font-size: 1.5rem;
-  }
-}
+
 
 .footer-rights {
   text-align: center;
@@ -339,6 +335,6 @@ body {
 }
 @media only screen and (max-width: 39em) {
   .footer-rights {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
   }
 }
