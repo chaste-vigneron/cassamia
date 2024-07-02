@@ -336,5 +336,6 @@ body {
 @media only screen and (max-width: 39em) {
   .footer-rights {
     font-size: 0.8rem;
+    color:red;
   }
 }
